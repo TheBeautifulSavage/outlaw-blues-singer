@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://thebeautifulsavage.github.io/outlaw-blues-singer/sitemap.xml
